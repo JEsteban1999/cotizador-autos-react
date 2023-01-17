@@ -81,6 +81,18 @@ const Formulario = () => {
         }
         guardarError(false)
 
+        // Obtener diferencia de años
+        // Por cada año restar el 3%
+
+        // Americano 15
+        // Asiatico 5
+        // Europeo 30
+
+        // Basico 20
+        // Completo 50
+
+        // Total
+
     }
 
     return (
